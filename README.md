@@ -49,4 +49,4 @@ This script is open source under the MIT License.
 Feel free to modify or fork this script for your own blue team tooling or as a teaching asset.
 
 🙌 Author
-Scott [Last Name] Cybersecurity Engineer | Threat Hunter | Automation Enthusiast [LinkedIn Profile or GitHub Link]
+Scott Tebebi Cybersecurity Engineer | Threat Hunter | Automation Enthusiast [[LinkedIn Profile](http://linkedin.com/in/scott-tebebi) or [GitHub Link](https://github.com/stebebi)]
