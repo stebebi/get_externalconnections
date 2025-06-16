@@ -20,3 +20,33 @@ A PowerShell script that identifies active **external TCP connections** to your 
 ```powershell
 .\get_externalconnections.ps1
 
+Output
+Log file is saved to: %TEMP%\ExternalConnectionsLog.txt
+
+Each entry includes:
+
+Local and remote IP/port
+
+TCP connection state
+
+GeoIP location (city, country)
+
+🧰 Dependencies
+Requires Windows PowerShell 5.1+ or PowerShell Core
+
+Internet access for GeoIP resolution via Invoke-RestMethod
+
+🛡 Example Use Cases
+Spot unusual beaconing to foreign IPs
+
+Monitor potential C2 callbacks in real time
+
+Document outbound traffic paths during incident response
+
+📄 License
+This script is open source under the MIT License.
+
+Feel free to modify or fork this script for your own blue team tooling or as a teaching asset.
+
+🙌 Author
+Scott [Last Name] Cybersecurity Engineer | Threat Hunter | Automation Enthusiast [LinkedIn Profile or GitHub Link]
